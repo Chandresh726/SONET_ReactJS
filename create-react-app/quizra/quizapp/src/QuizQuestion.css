@@ -1,0 +1,10 @@
+.question {
+    font-size: 30px;
+    color: blue;
+    font-weight: bold;
+}
+
+.wrong {
+    color: red;
+    font-size: 30px;
+}
